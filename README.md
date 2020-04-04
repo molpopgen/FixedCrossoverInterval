@@ -9,6 +9,12 @@ been installed by `conda`, else you will be unable to build:
 conda install pybind11
 ```
 
+You may or may not need `cmake`:
+
+```sh
+conda install cmake
+```
+
 To build:
 
 ```sh
